@@ -9,7 +9,7 @@ Crime And Punishment – Fyodor Dostoevsky </br>
 
 The Brothers Karamazov – Fyodor Dostoevsky </br>
 Notes From the Underground – Fyodor Dostoevsky </br>
-
+Beyond Good And Evil – Friedrich Nietzsche </br>
 
 ## Will Read :orange_book:
 
@@ -19,7 +19,6 @@ The Double - Fyodor Dostoevsky </br>
 1984 – George Orwell </br>
 Brave New World – Aldous Huxley </br>
 Road To Wigan Pier – George Orwell </br>
-Beyond Good And Evil – Friedrich Nietzsche </br>
 Ordinary Men – Christopher Browning </br>
 The Painted Bird – Jerzy Kosinski </br>
 The Rape of Nanking – Iris Chang </br>
