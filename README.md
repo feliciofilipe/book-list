@@ -26,3 +26,4 @@ Gulag Archipelago (Vol. 1, Vol. 2, & Vol. 3) – Aleksandr Solzhenitsyn </br>
 Man’s Search for Meaning – Viktor Frankl </br>
 A History of Religious Ideas (Vol. 1, Vol. 2, Vol. 3) – Mircea Eliade </br>
 Affective Neuroscience – Jaak Panksepp </br>
+Hero of our Times – Mikhail Lermontov </br>
