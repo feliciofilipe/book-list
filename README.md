@@ -4,11 +4,11 @@ A List of books I've read or wish to read. Check this list if you are having tro
 ## Read :green_book:
 
 Crime And Punishment – Fyodor Dostoevsky </br>
+Notes From the Underground – Fyodor Dostoevsky </br>
 
 ## Reading :blue_book:
 
 The Brothers Karamazov – Fyodor Dostoevsky </br>
-Notes From the Underground – Fyodor Dostoevsky </br>
 Beyond Good And Evil – Friedrich Nietzsche </br>
 
 ## Will Read :orange_book:
