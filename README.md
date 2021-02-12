@@ -1,4 +1,4 @@
-# book-list
+# book-list [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]
 A List of books I've read or wish to read. Check this list if you are having trouble picking a gift for me :laughing::laughing:
 
 ## Read :green_book:
@@ -10,6 +10,7 @@ Notes From the Underground – Fyodor Dostoevsky </br>
 
 The Brothers Karamazov – Fyodor Dostoevsky </br>
 Beyond Good And Evil – Friedrich Nietzsche </br>
+A Hero of Our Time – Mikhail Lermontov </br>
 
 ## Will Read :orange_book:
 
@@ -26,4 +27,3 @@ Gulag Archipelago (Vol. 1, Vol. 2, & Vol. 3) – Aleksandr Solzhenitsyn </br>
 Man’s Search for Meaning – Viktor Frankl </br>
 A History of Religious Ideas (Vol. 1, Vol. 2, Vol. 3) – Mircea Eliade </br>
 Affective Neuroscience – Jaak Panksepp </br>
-A Hero of our Time – Mikhail Lermontov </br>
