@@ -1,6 +1,5 @@
 # book-list [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]
-A List of books I've read or wish to read. Check this list if you are having trouble picking a gift for me :laughing::laughing:
-I mantain this repository so I can keep track of them.
+A List of books I've read or wish to read. I mantain this repository so I can keep track of them. Check this list if you are having trouble picking a gift for me :laughing::laughing:
 
 ## Read :green_book:
 
