@@ -11,11 +11,11 @@ Notes From the Underground – Fyodor Dostoevsky </br>
 The Brothers Karamazov – Fyodor Dostoevsky </br>
 Beyond Good And Evil – Friedrich Nietzsche </br>
 A Hero of Our Time – Mikhail Lermontov </br>
+Demons – Fyodor Dostoevsky </br>
 
 ## Will Read :orange_book:
 
 Modern Man in Search of A Soul – Carl Jung </br>
-Demons – Fyodor Dostoevsky </br>
 The Double - Fyodor Dostoevsky </br>
 1984 – George Orwell </br>
 Brave New World – Aldous Huxley </br>
