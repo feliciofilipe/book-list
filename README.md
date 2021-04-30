@@ -5,6 +5,7 @@ A List of books I've read or wish to read. I mantain this repository so I can ke
 
 Crime And Punishment – Fyodor Dostoevsky </br>
 Notes From the Underground – Fyodor Dostoevsky </br>
+The Art of War - Sun Tzu
 
 ## Reading :blue_book:
 
@@ -15,6 +16,7 @@ Demons – Fyodor Dostoevsky </br>
 
 ## Will Read :orange_book:
 
+From Under the Rubble - Igor Shafarevich (ed. Alexander Solzhenitsyn) </br>
 Modern Man in Search of A Soul – Carl Jung </br>
 The Double - Fyodor Dostoevsky </br>
 1984 – George Orwell </br>
