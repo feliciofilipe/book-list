@@ -3,19 +3,22 @@ A List of books I've read or wish to read. I mantain this repository so I can ke
 
 ## Read :green_book:
 
-Crime And Punishment – Fyodor Dostoevsky </br>
-Notes From the Underground – Fyodor Dostoevsky </br>
+Crime and Punishment – Fyodor Dostoevsky </br>
+Notes from the Underground – Fyodor Dostoevsky </br>
 The Art of War - Sun Tzu
 
 ## Reading :blue_book:
 
 The Brothers Karamazov – Fyodor Dostoevsky </br>
-Beyond Good And Evil – Friedrich Nietzsche </br>
+Beyond Good and Evil – Friedrich Nietzsche </br>
 A Hero of Our Time – Mikhail Lermontov </br>
 Demons – Fyodor Dostoevsky </br>
+Poor Folk – Fyodor Dostoevsky </br>
 
 ## Will Read :orange_book:
 
+Free to Choose - Milton Friedman </br>
+Capitalism and Freedom - Milton Friedman </br>
 From Under the Rubble - Igor Shafarevich (ed. Alexander Solzhenitsyn) </br>
 Modern Man in Search of A Soul – Carl Jung </br>
 The Double - Fyodor Dostoevsky </br>
